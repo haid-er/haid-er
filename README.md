@@ -14,7 +14,8 @@ ABOUT ME and My Interests:
 
 FUTURE GOALS:
 
-- I have plan about leaning Web 3.0 and Metaverse development after some achievements in Web-Development Journey.
+- I have plan about learning Web 3.0 and Metaverse development.
 - Learning PYTHON Language is also my wish and I'll complete it early or late.
+- I will continue my Graphics Designing with this routine.
 
 Thanks!
