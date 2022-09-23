@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malik Haider Ali
-- 👀 I’m interested in Languages like C, C++ and Javascript
+- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript
 - 🌱 I’m currently learning Javascript
 - 📫 GitHub Profile Name : haid-er
 - 📧 Email : malikhaiderali33@gmail.com
