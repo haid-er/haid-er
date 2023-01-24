@@ -1,12 +1,12 @@
-<h2 style = "align = center">- 👋 Hi, I’m Malik Haider Ali</h2>
+<h2>- 👋 Hi, I’m Malik Haider Ali</h2>
 <br>
-- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript
-- 🌱 I’m currently learning Javascript
-- 📫 GitHub Profile Name : haid-er
-- 📧 Email : malikhaiderali33@gmail.com
-- 📱 Phone Number : +923017977929
+<h3>- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript</h3>
+<h3>- 🌱 I’m currently learning Javascript</h3>
+<h3>- 📫 GitHub Profile Name : haid-er</h3>
+<h3>- 📧 Email : malikhaiderali33@gmail.com</h3>
+<h3>- 📱 Phone Number : +923017977929</h3>
 
-ABOUT ME and My Interests:
+<h2>ABOUT ME and My Interests:</h2>
 
 - I'm a student of Bachelor of Science with Information Technology at Punjab University College of Information Technology 🎓 (Lahore).
 - I'm interested in Web-Development and have well knowledge about HTML CSS and Bootstrap. I'm currently learning Javascript in this field.
@@ -14,13 +14,13 @@ ABOUT ME and My Interests:
 - I have a little bit interest in Graphics Designing and have a good experience in Adobe Photoshop. 
 - I'm currently working as graphic Designer in FCIT Information and Media Society and The Blood Heros Punjab.
 
-FUTURE GOALS:
+<h2>FUTURE GOALS:</h2>
 
 - I have plan about learning Web 3.0 and Metaverse development.
 - Learning PYTHON Language is also my wish and I'll complete it early or late.
 
 
-Thanks!
+<h2>Thanks!</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haid-er&show_icons=true&locale=en&layout=compact" alt="haid-er" /></p>
 
