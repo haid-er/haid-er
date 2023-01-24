@@ -1,4 +1,5 @@
-<h2>- 👋 Hi, I’m Malik Haider Ali</h2>
+<h2 style = "align = center">- 👋 Hi, I’m Malik Haider Ali</h2>
+<br>
 - 👀 I’m interested in Web Development and Languages like C, C++ and Javascript
 - 🌱 I’m currently learning Javascript
 - 📫 GitHub Profile Name : haid-er
