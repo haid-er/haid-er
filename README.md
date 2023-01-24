@@ -8,7 +8,7 @@
 ABOUT ME and My Interests:
 
 - I'm a student of Bachelor of Science with Information Technology at Punjab University College of Information Technology 🎓 (Lahore).
-- I'm very interested in Web-Development and have well knowledge about HTML CSS and Bootstrap. I'm currently learning Javascript in this field.
+- I'm interested in Web-Development and have well knowledge about HTML CSS and Bootstrap. I'm currently learning Javascript in this field.
 - I have also interest in other programming Languages like C, C++ and I'm also learning about them.
 - I have a little bit interest in Graphics Designing and have a good experience in Adobe Photoshop. 
 
