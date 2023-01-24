@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Malik Haider Ali
+<h2>- 👋 Hi, I’m Malik Haider Ali</h2>
 - 👀 I’m interested in Web Development and Languages like C, C++ and Javascript
 - 🌱 I’m currently learning Javascript
 - 📫 GitHub Profile Name : haid-er
@@ -11,12 +11,13 @@ ABOUT ME and My Interests:
 - I'm interested in Web-Development and have well knowledge about HTML CSS and Bootstrap. I'm currently learning Javascript in this field.
 - I have also interest in other programming Languages like C, C++ and I'm also learning about them.
 - I have a little bit interest in Graphics Designing and have a good experience in Adobe Photoshop. 
+- I'm currently working as graphic Designer in FCIT Information and Media Society and The Blood Heros Punjab.
 
 FUTURE GOALS:
 
 - I have plan about learning Web 3.0 and Metaverse development.
 - Learning PYTHON Language is also my wish and I'll complete it early or late.
-- I will continue my Graphics Designing with this routine.
+
 
 Thanks!
 
