@@ -5,6 +5,7 @@
 <h4>- 📫 GitHub Profile Name : haid-er</h4>
 <h4>- 📧 Email : malikhaiderali33@gmail.com</h4>
 <h4>- 📱 Phone Number : +923017977929</h4>
+<h4>- 🔗 Linked-In : https://www.linkedin.com/in/itzhaidermalik</h4>
 
 <h2>ABOUT ME and My Interests:</h2>
 
@@ -18,7 +19,7 @@
 
 - I have plan about learning Web 3.0 and Metaverse development.
 - Learning PYTHON Language is also my wish and I'll complete it early or late.
-
+- I also interested in Open Hardware Development using Arduino Boards.
 
 <h2>Thanks!</h2>
 
