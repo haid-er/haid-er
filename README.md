@@ -1,10 +1,10 @@
 <h2>- 👋 Hi, I’m Malik Haider Ali</h2>
-<br>
-<h3>- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript</h3>
-<h3>- 🌱 I’m currently learning Javascript</h3>
-<h3>- 📫 GitHub Profile Name : haid-er</h3>
-<h3>- 📧 Email : malikhaiderali33@gmail.com</h3>
-<h3>- 📱 Phone Number : +923017977929</h3>
+
+<h4>- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript</h4>
+<h4>- 🌱 I’m currently learning Javascript</h4>
+<h4>- 📫 GitHub Profile Name : haid-er</h4>
+<h4>- 📧 Email : malikhaiderali33@gmail.com</h4>
+<h4>- 📱 Phone Number : +923017977929</h4>
 
 <h2>ABOUT ME and My Interests:</h2>
 
