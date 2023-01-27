@@ -2,11 +2,13 @@
 
 <h4>- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript</h4>
 <h4>- 🌱 I’m currently learning Javascript</h4>
-<h4>- 📫 GitHub Profile Name : haid-er</h4>
+<h4>- 📫 GitHub Profile : haid-er</h4>
 <h4>- 📧 Email : malikhaiderali33@gmail.com</h4>
 <h4>- 📱 Phone Number : +923017977929</h4>
-<a href = "https://www.linkedin.com/in/itzhaidermalik">- LinkedIn/Me</a>
-
+<div>
+  <h4>- LinkedIn 🔗 : </h4>
+  <a href = "https://www.linkedin.com/in/itzhaidermalik">- LinkedIn/Me</a>
+</div>
 <h2>ABOUT ME and My Interests:</h2>
 
 - I'm a student of Bachelor of Science with Information Technology at Punjab University College of Information Technology 🎓 (Lahore).
