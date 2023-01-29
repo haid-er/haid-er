@@ -20,7 +20,7 @@
 
 - I have plan about learning Web 3.0 and Metaverse development.
 - Learning PYTHON Language is also my wish and I'll complete it early or late.
-- I also interested in Open Hardware Development using Arduino Boards.
+- I'm also interested in Open Hardware Development using Arduino Boards.
 
 <h2>Thanks!</h2>
 
