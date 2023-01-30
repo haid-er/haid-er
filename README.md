@@ -4,7 +4,7 @@
 <h4>- 🌱 I’m currently learning Javascript</h4>
 <h4>- 📫 GitHub Profile : haid-er</h4>
 <h4>- 📧 Email : malikhaiderali33@gmail.com</h4>
-<h4>- 📱 Phone Number : +923017977929</h4>
+<h4>- 📱 Phone Number / Whatsapp : +923017977929</h4>
 <h4>- LinkedIn 🔗 : https://www.linkedin.com/in/itzhaidermalik</h4>
 <h4>- HackerRank 📛 : https://www.hackerrank.com/malikhaiderali33</h4>
 
