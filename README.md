@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haid-er&show_icons=true&locale=en" alt="haid-er" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haid-er&" alt="haid-er" /></p> -->
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=&mode=weekly" alt="haid-er"</p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=haid-er&mode=weekly" alt="Streak"</p>
