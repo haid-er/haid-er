@@ -1,6 +1,6 @@
 <h2>- 👋 Hi, I’m Malik Haider Ali</h2>
 
-<h4>- 👀 I’m interested in Web Development and Languages like C, C++ and Javascript</h4>
+<h4>- 👀 I’m interested in Web Development and languages like Python</h4>
 <h4>- 🌱 I’m currently learning Javascript</h4>
 <h4>- 📫 GitHub Profile : haid-er</h4>
 <h4>- 📧 Email : malikhaiderali33@gmail.com</h4>
@@ -10,9 +10,9 @@
 
 <h2>ABOUT ME and My Interests:</h2>
 
-- I'm a student of Bachelor of Science with Information Technology at Punjab University College of Information Technology 🎓 (Lahore).
+- I'm a student of BSIT in PUCIT, Punjab University 🎓 (Lahore).
 - I'm interested in Web-Development and have well knowledge about HTML CSS and Bootstrap. I'm currently learning Javascript in this field.
-- I have also interest in other programming Languages like C, C++ and I'm also learning about them.
+- I have also interest in other programming Languages like Python and other and I have strong grip over C++, I'm also learning about them.
 - I'm interested in Graphic Designing and have a good experience in Adobe Photoshop. 
 - I'm currently working as graphic Designer in FCIT Information and Media Society and The Blood Heros Punjab.
 
@@ -21,7 +21,7 @@
 - I have plan about learning Web 3.0 and Metaverse development.
 - Learning PYTHON Language is also my wish and I'll complete it early or late.
 - I'm also interested in Open Hardware Development using Arduino Boards.
-
+<p>Thats all about me.</p>
 <h2>Thanks!</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haid-er&show_icons=true&locale=en&layout=compact" alt="haid-er" /></p>
