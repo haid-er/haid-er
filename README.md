@@ -25,5 +25,3 @@
 <h2>Thanks!</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haid-er&show_icons=true&locale=en&layout=compact" alt="haid-er" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haid-er&show_icons=true&locale=en" alt="haid-er" /></p>
