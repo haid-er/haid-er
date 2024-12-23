@@ -1,27 +1,67 @@
-<h2>- 👋 Hi, I’m Malik Haider Ali</h2>
+# 👋 Hello, I’m Malik Haider Ali!
 
-<h4>- 👀 I’m interested in Web Development and languages like Python</h4>
-<h4>- 🌱 I’m currently learning Javascript</h4>
-<h4>- 📫 GitHub Profile : haid-er</h4>
-<h4>- 📧 Email : malikhaiderali33@gmail.com</h4>
-<h4>- 📱 Phone Number / Whatsapp : +923017977929</h4>
-<h4>- LinkedIn 🔗 : https://www.linkedin.com/in/itzhaidermalik</h4>
-<h4>- HackerRank 📛 : https://www.hackerrank.com/malikhaiderali33</h4>
+Welcome to my GitHub profile! I’m a **Full-Stack Developer** with expertise in **PERN** (React, Express, Node.js, and PostgreSQL). My journey began with a passion for Web Development and has evolved into building modern, scalable web applications.
 
-<h2>ABOUT ME and My Interests:</h2>
+---
 
-- I'm a student of BSIT in PUCIT, Punjab University 🎓 (Lahore).
-- I'm interested in Web-Development and have well knowledge about HTML CSS and Bootstrap. I'm currently learning Javascript in this field.
-- I have also interest in other programming Languages like Python and other and I have strong grip over C++, I'm also learning about them.
-- I'm interested in Graphic Designing and have a good experience in Adobe Photoshop. 
-- I'm currently working as graphic Designer in FCIT Information and Media Society and The Blood Heros Punjab.
+## 👀 Interests
 
-<h2>FUTURE GOALS:</h2>
+- Modern Web Application Development (Frontend & Backend)
+- Exploring new technologies like **Web 3.0** and the **Metaverse**
+- Python programming for data processing and machine learning.
 
-- I have plan about learning Web 3.0 and Metaverse development.
-- Learning PYTHON Language is also my wish and I'll complete it early or late.
-- I'm also interested in Open Hardware Development using Arduino Boards.
-<p>Thats all about me.</p>
-<h2>Thanks!</h2>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haid-er&show_icons=true&locale=en&layout=compact" alt="haid-er" /></p>
+## 🌱 Currently Learning
+
+- Advanced Backend/Frontend Development
+- Modern Libraries
+- Real-time applications
+
+---
+
+## 💼 Professional Experience
+
+- Building dynamic web applications and APIs with **React**, **Node.js**, and **PostgreSQL**.
+- Proficient in frontend technologies including **Tailwind**, **Bootstrap** with **React**.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Science in Information Technology (BSIT)**  
+  Punjab University College of Information Technology (PUCIT), Lahore
+
+---
+
+## 🚀 Future Goals
+
+- Master **Web 3.0** and **Metaverse Development**.
+- Expand knowledge in **Python** for AI/ML applications.
+- Build innovative projects integrating hardware and software.
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=haid-er&show_icons=true&locale=en&layout=compact)
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub Profile**: [@haid-er](https://github.com/haid-er)
+- **Email**: malikhaiderali33@gmail.com
+- **Phone/WhatsApp**: +92 301 7977929
+- **LinkedIn**: [[itzhaidermalik](https://www.linkedin.com/in/itzhaidermalik)](https://www.linkedin.com/in/haid-er/)
+
+<a href="https://www.linkedin.com/in/haid-er" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://https://www.instagram.com/haiderfb1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/haiderfb1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+---
+
+### Thank you for visiting my profile! ✨  
+Feel free to reach out or collaborate on projects. 🚀
+
+![Snake animation](https://github.com/haid-er/github-readme/blob/output/github-contribution-snake.svg)
