@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** with expertise in
 - Advanced Backend/Frontend Development
 - React Native
 - Machine Learning
-- Timeseries sensor-based data to recognize activities
+- Timeseries sensor-based data analysis to recognize activities
 
 
 
