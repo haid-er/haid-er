@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Malik Haider Ali!
 
-Welcome to my GitHub profile! I’m a **Full-Stack Developer** with expertise in **PERN** (React, Express, Node.js, and PostgreSQL). My journey began with a passion for Web Development and has evolved into building modern, scalable web applications.
+Welcome to my GitHub profile! I’m a **Full-Stack Developer** with expertise in **PERN** (PostgreSQL, Express, React and Node.js). My journey began with a passion for Web Development and has evolved into building modern, scalable web applications.
 
 
 
